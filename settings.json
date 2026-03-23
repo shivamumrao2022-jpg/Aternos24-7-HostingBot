@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Makemode-smp.aternos.me",
-    "port": 29931,
+    "ip": "makemodesmp.bedrock.minekeep.gg",
+    "port": 19132,
     "version": "",
     "try-creative": false
   },
